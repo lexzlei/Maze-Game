@@ -52,22 +52,22 @@ This project implements a maze generation and solving game in Java using Kruskal
 
 ## Maze Game Preview
 
-![30x30 Maze Game Preview](screenshots/30x30.jpg)
+![30x30 Maze Game Preview](Screenshots/30x30.jpg)
 
 *30x30 board*
 
-![60x60 Maze Game Preview](screenshots/60x60.jpg)
+![60x60 Maze Game Preview](Screenshots/60x60.jpg)
 
 *60x60 board*
 
-![Game In Progress](screenshots/in-progress.jpg)
+![Game In Progress](Screenshots/in-progress.jpg)
 
 *As player moves, the already traveled path will remain highlighted red"
 
-![DFS](screenshots/dfs.jpg)
+![DFS](Screenshots/dfs.jpg)
 
 *Game solved using depth first search*
 
-![BFS](screenshots/bfs.jpg)
+![BFS](Screenshots/bfs.jpg)
 
 *Game solved using breadth first search*
