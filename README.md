@@ -62,7 +62,7 @@ This project implements a maze generation and solving game in Java using Kruskal
 
 ![Game In Progress](Screenshots/in-progress.jpg)
 
-*As player moves, the already traveled path will remain highlighted red"
+*As player moves, the already traveled path will remain highlighted red*
 
 ![DFS](Screenshots/dfs.jpg)
 
