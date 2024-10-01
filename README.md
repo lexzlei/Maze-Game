@@ -8,8 +8,6 @@ This project implements a maze generation and solving game in Java using Kruskal
 - [How to Run](#how-to-run)
 - [Controls](#controls)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Maze Generation**: Uses Kruskal's algorithm to generate random mazes of customizable size.
