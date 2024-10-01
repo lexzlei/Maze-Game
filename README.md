@@ -8,6 +8,7 @@ This project implements a maze generation and solving game in Java using Kruskal
 - [How to Run](#how-to-run)
 - [Controls](#controls)
 - [Customization](#customization)
+- [Maze Game Preview](#maze-game-preview)
 
 ## Features
 - **Maze Generation**: Uses Kruskal's algorithm to generate random mazes of customizable size.
@@ -48,3 +49,25 @@ This project implements a maze generation and solving game in Java using Kruskal
 
 ## Customization
 - The maze size can be adjusted by modifying the width and height parameters when creating a new MazeWorld instance within the code.
+
+## Maze Game Preview
+
+![30x30 Maze Game Preview](screenshots/30x30.jpg)
+
+*30x30 board*
+
+![60x60 Maze Game Preview](screenshots/60x60.jpg)
+
+*60x60 board*
+
+![Game In Progress](screenshots/in-progress.jpg)
+
+*As player moves, the already traveled path will remain highlighted red"
+
+![DFS](screenshots/dfs.jpg)
+
+*Game solved using depth first search*
+
+![BFS](screenshots/bfs.jpg)
+
+*Game solved using breadth first search*
